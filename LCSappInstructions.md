@@ -20,8 +20,6 @@
 
 * 4.) Open LCS Data Processor Template. Go to Input Sheet Receiver sheet. Click on cell A:1. Highlight https:// address (leave quotation marks) and paste URL.
 
-* 5.) Go to LCS Template sheet (in LCS Data Processor Template). Copy URL
-
-* 6.) Go to Visualization Tool (in LCS Data Processor Template).  Click 'File', then 'Publish to Web'. Select 'Visualization Tool' from 'Entire Document' drop-down menu and 'Web page'. Copy URL.
+* 5.) Go to Visualization Tool (in LCS Data Processor Template).  Click 'File', then 'Publish to Web'. Select 'Visualization Tool' from 'Entire Document' drop-down menu and 'Web page'. Copy URL.
 
 * 6.) Open 'Visualization Viewer'.  Hightlight existing URL and paste new URL.
