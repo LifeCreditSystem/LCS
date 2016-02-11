@@ -2,6 +2,10 @@
 
 #### Setting up LCS on your Google Drive
 
+* 1.) Open email invitation to 'SHARED LCS v0.1' Google Drive. Click 'Open', then 'Add to Drive' and then 'Open in Drive'.
+
+* 2.) Create new folder in Google Drive titled 'LCS'.  
+
 * 1.) Create new folder in google drive 'LCS'.  In 'LCS' create 'LCS template'
 
 * 2.) Go to 'shared with me'.  Open 'LCS app' folder
